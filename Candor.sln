@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candor.Core", "Candor.Core\Candor.Core.csproj", "{00922DFD-B371-43C9-93CD-F40AC257D273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candor.UI", "Candor.UI\Candor.UI.csproj", "{2ED5BB60-2470-4BC2-8278-183D8900E88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00922DFD-B371-43C9-93CD-F40AC257D273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00922DFD-B371-43C9-93CD-F40AC257D273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00922DFD-B371-43C9-93CD-F40AC257D273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00922DFD-B371-43C9-93CD-F40AC257D273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED5BB60-2470-4BC2-8278-183D8900E88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED5BB60-2470-4BC2-8278-183D8900E88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED5BB60-2470-4BC2-8278-183D8900E88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED5BB60-2470-4BC2-8278-183D8900E88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
